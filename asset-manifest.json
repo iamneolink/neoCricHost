@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/neoCricHost/static/css/main.c52165cf.css",
+    "main.js": "/neoCricHost/static/js/main.d89570a7.js",
+    "static/js/453.9ee576b5.chunk.js": "/neoCricHost/static/js/453.9ee576b5.chunk.js",
+    "static/media/background.jpg": "/neoCricHost/static/media/background.1e51eee90f9b5c8d1fc9.jpg",
+    "index.html": "/neoCricHost/index.html",
+    "main.c52165cf.css.map": "/neoCricHost/static/css/main.c52165cf.css.map",
+    "main.d89570a7.js.map": "/neoCricHost/static/js/main.d89570a7.js.map",
+    "453.9ee576b5.chunk.js.map": "/neoCricHost/static/js/453.9ee576b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c52165cf.css",
+    "static/js/main.d89570a7.js"
+  ]
+}
